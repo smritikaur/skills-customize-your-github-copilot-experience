@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "exception-handling",
+      "title": "Exception Handling in Python",
+      "description": "Learn to handle errors gracefully using try-except blocks. Write programs that catch exceptions, validate user input, handle file errors, and recover from common mistakes.",
+      "path": "assignments/exception-handling",
+      "dueDate": "2026-06-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }

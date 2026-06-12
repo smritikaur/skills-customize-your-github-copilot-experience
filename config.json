@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to build RESTful APIs using FastAPI framework. Create endpoints that handle HTTP requests, manage data, and implement proper request/response handling with path parameters, query parameters, and request bodies.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-06-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
